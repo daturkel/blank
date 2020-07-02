@@ -1,12 +1,12 @@
-name = "Blank"
+name = "tbd"
 license = "MIT"
-licenselink = "https://github.com/vimux/blank/blob/master/LICENSE"
-description = "Starter Hugo theme for developers."
-homepage = "https://github.com/vimux/blank/"
-tags = ["blog", "plain", "blank", "starter", "development"]
+licenselink = "https://github.com/daturkel/blank/blob/master/LICENSE"
+description = "Minimal blog theme for Hugo, forked from Vimux's blank theme"
+homepage = "https://github.com/daturkel/blank/"
+tags = ["blog", "plain", "blank", "starter"]
 features = ["blog"]
 min_version = "0.20"
 
 [author]
-  name = "Vimux"
-  homepage = "https://github.com/vimux"
+  name = "daturkel"
+  homepage = "https://github.com/daturkel"
